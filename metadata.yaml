@@ -1,15 +1,21 @@
 _repo: Die-Jobsiade-Ein-komisches-Heldengedicht-in-drei-Teilen_47608
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Schnettler, Friedrich
     gutenberg_agent_id: '44390'
     url: http://www.gutenberg.org/2009/agents/44390
+covers:
+- cover_type: archival
+  image_path: 47608-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Kortum, Carl Arnold
     gutenberg_agent_id: '44389'
     url: http://www.gutenberg.org/2009/agents/44389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47608#Die-Jobsiade-Ein-komisches-Heldengedicht-in-drei-Teilen
 gutenberg_issued: '2014-12-09'
 gutenberg_type: Text
 identifiers:
